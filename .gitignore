@@ -39,3 +39,4 @@ yarn-error.*
 # Ignoriere Firebase-Konfigurationsdatei
 db/firebase.ts
 
+/db/
