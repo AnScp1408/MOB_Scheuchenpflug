@@ -9,6 +9,7 @@ Buchoase ist eine mobile App, die es Benutzern ermöglicht, Bücher zu suchen, z
 - Notizen zu Büchern hinzufügen und bearbeiten
 - Bücher löschen
 - Bücherbeschreibungen anzeigen
+- Bücher Rating geben
 
 ## Technologien
 
